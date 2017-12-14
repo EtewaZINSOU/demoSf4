@@ -1,0 +1,20 @@
+{
+  "name": "demoSf4",
+  "description": "The project to train",
+  "homepage": "https://github.com/EtewaZINSOU/demoSf4",
+  "authors": [
+    "Alexis ZINSOU <alexis.zinsou@enr-cert.com>"
+  ],
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
